@@ -1,4 +1,4 @@
-const fs = require('fs')
+const fs = require('fs/fs')
 
 // fs.stat('./fs.js',(err, data)=>{
 //     if (err){
