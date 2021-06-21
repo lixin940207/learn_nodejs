@@ -45,26 +45,26 @@
 	float:left;
 	width:33px;
 	height: 35px;
-	background:url(7.simple-web-server/static/image/footer-sprite.png) 0px -279px;
+	background:url(simple-web-server/static/image/footer-sprite.png) 0px -279px;
 	opacity:0.5;
 }
 .ln_bottom_ewm li a.ln_bottom_weibo_content{
 	float:left;
 	width:33px;
 	height: 35px;
-	background:url(7.simple-web-server/static/image/footer-sprite.png) 0px -320px;
+	background:url(simple-web-server/static/image/footer-sprite.png) 0px -320px;
 	opacity:0.5;
 }
 .ln_bottom_ewm li a.ln_bottom_qq{
 	float:left;
 	width:33px;
 	height: 35px;
-	background:url(7.simple-web-server/static/image/footer-sprite.png) 0px -360px;
+	background:url(simple-web-server/static/image/footer-sprite.png) 0px -360px;
 	opacity:0.5;
 }
 .ln_bottom_ewm li a.ln_bottom_weixin:hover{
 	opacity:1;
-	
+
 }
 .ln_bottom_ewm li a.ln_bottom_weibo_content:hover{
 	opacity:1;
@@ -78,6 +78,6 @@
 	position:absolute;
 	bottom:75px;
 	right:150px;
-	background:url(7.simple-web-server/static/image/footer-sprite.png) no-repeat 0px 0px;
+	background:url(simple-web-server/static/image/footer-sprite.png) no-repeat 0px 0px;
 	display:none;
 }

@@ -221,7 +221,7 @@ a.rankingnickname:hover{
     content: '';
     width: 166px;
     height: 210px;
-    background: transparent url("7.simple-web-server/staticle-web-server/static/image/elevator.png") no-repeat scroll -2px 0px;
+    background: transparent url("simple-web-server/staticle-web-server/static/image/elevator.png") no-repeat scroll -2px 0px;
     position: absolute;
     left: -170px;
     top: -150px;
@@ -243,7 +243,7 @@ a.rankingnickname:hover{
     content: '';
     width: 166px;
     height: 200px;
-    background: transparent url("7.simple-web-server/staticle-web-server/static/image/elevator.png") no-repeat scroll -2px -218px;
+    background: transparent url("simple-web-server/staticle-web-server/static/image/elevator.png") no-repeat scroll -2px -218px;
     position: absolute;
     left: -170px;
     top: -20px;
@@ -265,7 +265,7 @@ a.rankingnickname:hover{
     height: 52px;
     width: 52px;
     transition: background-position 0.15s ease 0s;
-    background: transparent url("7.simple-web-server/staticle-web-server/static/image/elevator.png") no-repeat scroll 0% 0%;
+    background: transparent url("simple-web-server/staticle-web-server/static/image/elevator.png") no-repeat scroll 0% 0%;
     z-index: 1300;
 }
 

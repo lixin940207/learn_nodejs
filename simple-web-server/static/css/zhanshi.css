@@ -32,10 +32,10 @@
 .zhanshi_up{
     width: 100%;
     height: 100px;
-	background:url(7.simple-web-server/static/image/user_card_top.png) no-repeat;
+	background:url(simple-web-server/static/image/user_card_top.png) no-repeat;
     box-sizing: border-box;
- 
-	
+
+
 }
 .zhanshi_up ul{
     list-style: none;
@@ -73,7 +73,7 @@
 .zhanglingdj{
 		margin-top:30px;
 	margin-left:20px;
-	
+
 }
 .touxiang_list{
 

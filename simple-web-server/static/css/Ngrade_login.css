@@ -9,7 +9,7 @@ input{border:1px solid #ccc;}
 /*头部*/
 .alert-header{ position:relative; width: 280px; font-weight:500; height:36px;font-size: 18px;color:#666;border-bottom: 2px solid #ccc;padding:0 60px;padding-top: 20px;cursor:pointer;}
 .alert-header-zhuce,.alert-header-denglu{padding: 0px 10px;margin-right:16px;cursor: pointer;}
-.alert-header-close{position:absolute;    top: 24px;  right: 26px;cursor:pointer;width: 17px;background: url(7.simple-web-server/static/image/nlogin.png) no-repeat 0 0;  height: 17px;}
+.alert-header-close{position:absolute;    top: 24px;  right: 26px;cursor:pointer;width: 17px;background: url(simple-web-server/static/image/nlogin.png) no-repeat 0 0;  height: 17px;}
 .alert-header-close:hover{background-position: 0 -21px}
 /* 头部登陆样式 */
 .alert-header-current{
@@ -17,7 +17,7 @@ input{border:1px solid #ccc;}
 	color:#CB0000;
 	border-bottom: 2px solid #CB0000;
 	height:36px !important;
-}	
+}
 .denglu-test,.password-test,.email-test,.pstwo-test,.usnm-test,.psone-test{height:18px;width:276px;line-height:18px;margin-left:60px;font-size:10px;color:#CB0000;}
 .usnm-test{margin-bottom: 20px !important;}
 .alert-in-denglu-test{}
@@ -25,9 +25,9 @@ input{border:1px solid #ccc;}
 /*输入框*/
 .alert-in{height: auto;padding:20px auto;background-color: white}
 .alert-in-denglu{display: block;  height: 38px;  width: 225px;margin:30px 0px 5px 60px;padding-left: 50px;font-size:16px;}
-.alert-in-denglu,.alert-in-usnm{background:url(7.simple-web-server/static/image/ipt-sprite.png) no-repeat 0px -96px;}
-.alert-in-email{background:url(7.simple-web-server/static/image/ipt-sprite.png) no-repeat 0px 0px;}
-.alert-in-password,.alert-in-psone,.alert-in-pstwo{background:url(7.simple-web-server/static/image/ipt-sprite.png) no-repeat 0px -48px;}
+.alert-in-denglu,.alert-in-usnm{background:url(simple-web-server/static/image/ipt-sprite.png) no-repeat 0px -96px;}
+.alert-in-email{background:url(simple-web-server/static/image/ipt-sprite.png) no-repeat 0px 0px;}
+.alert-in-password,.alert-in-psone,.alert-in-pstwo{background:url(simple-web-server/static/image/ipt-sprite.png) no-repeat 0px -48px;}
 .alert-in-psone,.alert-in-pstwo,.alert-in-usnm{display: block;  height: 38px;  width: 225px;margin:15px 0px 5px 60px;padding-left: 50px;font-size:16px;}
 .alert-in-email{display: block;  height: 38px;  width: 225px;margin:30px 0px 5px 60px;padding-left: 50px;font-size:16px;}
 .alert-in-password{display: block;  height: 38px;  width: 225px;margin:10px 0px 5px 60px;padding-left: 50px;font-size:16px;}
